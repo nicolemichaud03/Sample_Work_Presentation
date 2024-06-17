@@ -73,11 +73,11 @@ ___________
 
 - For the company's areas of expertise, what are the trends in job postings?
 
-<img src="images/2021jobpostings.png" alt="Sample Image 8" width="400" height="200"">
+<img src="images/2021jobpostings.png" alt="Sample Image 8" width="400" height="200">
 
-<img src="images/2022jobpostings.png" alt="Sample Image 9">
+<img src="images/2022jobpostings.png" alt="Sample Image 9" width="400" height="200">
 
-<img src="images/2023jobpostings.png" alt="Sample Image 10">
+<img src="images/2023jobpostings.png" alt="Sample Image 10" width="400" height="200">
 
 - What are the trends in job postings across the different regions of the country?
 
