@@ -22,14 +22,20 @@ Note: The company was in the recruiting and staffing industry-- "placements" ref
 
 <img src="images/ind_plcmnts1.png" alt="Sample Image 2">
 
-<img src="images/ind_plcmnts2.png" alt="Sample Image 3">
+<img src="images/ind_plcmts2.png" alt="Sample Image 3">
 
 <img src="images/ind_plcmnts3.png" alt="Sample Image 4">
 
 
+- For the company's main areas of expertise (as listed on their website), what were the percent of placements in each of those areas in the past 3 years?
 
-- For the company's main areas of expertise (as listed on their website), what were the percent of placements in each of those areas over the past 3 years?
-- What were the total number of placements in each area of expertise in each of the past 3 years individually?
+<img src="images/aofe_plcmnts1.png" alt="Sample Image 5">
+
+<img src="images/aofe_plcmnts2.png" alt="Sample Image 6">
+
+<img src="images/aofe_plcmnts3.png" alt="Sample Image 7">
+
+
 - What were the most common job titles placed in each area of expertise?
 - What industries does the company make the most revenue from?
 - What placement titles and categories does the company make the most revenue from?
