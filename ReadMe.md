@@ -12,7 +12,8 @@ This was one of my first projects while learning data science/data analysis, and
 
 Note: The company was in the recruiting and staffing industry-- "placements" refers to jobs placed by the company, "sales" refers to new clients gained, "job category" refers to the type of job a placement was for.
 
-<br>	
+___________
+
 
 ### Internal Research - anonymized examples of research and analysis done on internal company data
 
@@ -64,6 +65,10 @@ Note: The company was in the recruiting and staffing industry-- "placements" ref
 		4. XX
 		...
 
+<<<<<<< HEAD
+=======
+___________
+>>>>>>> refs/remotes/origin/main
 
 
 ### External Research - research and analysis done using publicly available data from BLS.gov and the Indeed Hiring Lab
@@ -103,8 +108,9 @@ Note: The company was in the recruiting and staffing industry-- "placements" ref
 	- What specific areas should we refocus efforts toward?
 	
 	
-<br>
-<br>
+________
+______
+
 
 Thank you for viewing this sample research and analysis project I put together. I hope it gave an accurate idea of the ways in which my technical and data storytelling skills were put to use in my previous role.
 
