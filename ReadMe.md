@@ -12,7 +12,7 @@ This was one of my first projects while learning data science/data analysis, and
 
 Note: The company was in the recruiting and staffing industry-- "placements" refers to jobs placed by the company, "sales" refers to new clients gained, "job category" refers to the type of job a placement was for.
 
-<br>	
+
 
 ### Internal Research - anonymized examples of research and analysis done on internal company data
 
