@@ -14,7 +14,8 @@ Note: The company was in the recruiting and staffing industry-- "placements" ref
 
 <br>	
 
-### Internal Research
+### Internal Research - anonymized examples of research and analysis done on internal company data
+
 - In the past 3 years, what industries has the company made the most placements in overall?
 
 <img src="images/ind_plcmnts.png" alt="Sample Image 1">
@@ -65,11 +66,9 @@ Note: The company was in the recruiting and staffing industry-- "placements" ref
 
 <br>	
 
-### External Research
+### External Research - research and analysis done using publicly available data from BLS.gov and the Indeed Hiring Lab
 
 - For the company's areas of expertise, what are the trends in job postings?
-
-	- utilized publicly available data from Indeed Hiring Lab
 
 <img src="images/2021jobpostings.png" alt="Sample Image 8">
 
@@ -89,7 +88,7 @@ Note: The company was in the recruiting and staffing industry-- "placements" ref
 
 <br>	
 
-### Comparisons and conclusions
+### Comparisons and conclusions - Some of the conclusions I drew from the data and how it was used to advise company efforts
 
 - Do the trends in job postings for different areas of expertise align with trends in the company's placements?
 
@@ -102,3 +101,13 @@ Note: The company was in the recruiting and staffing industry-- "placements" ref
 - Does the marketing efforts and budget aimed at different industries and placement categories align with those that the company makes most of its revenue from, that are trending nationally, or that have otherwise shown potential?
 	
 	- What specific areas should we refocus efforts toward?
+	
+	
+<br>
+<br>
+
+Thank you for viewing this sample research and analysis project I put together. I hope it gave an accurate idea of the ways in which my technical and data storytelling skills were put to use in my previous role.
+
+My other projects can be viewed on <a href="https://github.com/nicolemichaud03">my Github</a>.
+
+<a href="https://linkedin.com/in/nicole-michaud2">View my Linked in Profile here</a>
