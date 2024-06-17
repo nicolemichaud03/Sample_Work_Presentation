@@ -64,13 +64,13 @@ Note: The company was in the recruiting and staffing industry-- "placements" ref
 		4. XX
 		...
 
-<br>	
+
 
 ### External Research - research and analysis done using publicly available data from BLS.gov and the Indeed Hiring Lab
 
 - For the company's areas of expertise, what are the trends in job postings?
 
-<img src="images/2021jobpostings.png" alt="Sample Image 8">
+<img src="images/2021jobpostings.png" alt="Sample Image 8" width=400 height=200>
 
 <img src="images/2022jobpostings.png" alt="Sample Image 9">
 
