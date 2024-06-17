@@ -65,10 +65,8 @@ ___________
 		4. XX
 		...
 
-<<<<<<< HEAD
-=======
 ___________
->>>>>>> refs/remotes/origin/main
+
 
 
 ### External Research - research and analysis done using publicly available data from BLS.gov and the Indeed Hiring Lab
