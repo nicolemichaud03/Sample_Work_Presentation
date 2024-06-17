@@ -19,24 +19,24 @@ ___________
 
 - In the past 3 years, what industries has the company made the most placements in overall?
 
-<img src="images/ind_plcmnts.png" alt="Sample Image 1" width="800" height="400>
+<img src="images/ind_plcmnts.png" alt="Sample Image 1" width="800" height="400">
 
 - What industries did the company make the most placements in for each of those years, individually?
 
-<img src="images/ind_plcmnts1.png" alt="Sample Image 2" width="800" height="400>
+<img src="images/ind_plcmnts1.png" alt="Sample Image 2" width="800" height="400">
 
-<img src="images/ind_plcmts2.png" alt="Sample Image 3" width="800" height="400>
+<img src="images/ind_plcmts2.png" alt="Sample Image 3" width="800" height="400">
 
-<img src="images/ind_plcmnts3.png" alt="Sample Image 4" width="800" height="400>
+<img src="images/ind_plcmnts3.png" alt="Sample Image 4" width="800" height="400">
 
 
 - For the company's main areas of expertise (as listed on their website), what were the percent of placements in each of those areas in the past 3 years?
 
-<img src="images/aofe_plcmnts1.png" alt="Sample Image 5" width="800" height="400>
+<img src="images/aofe_plcmnts1.png" alt="Sample Image 5" width="800" height="400">
 
-<img src="images/aofe_plcmnts2.png" alt="Sample Image 6" width="800" height="400>
+<img src="images/aofe_plcmnts2.png" alt="Sample Image 6" width="800" height="400">
 
-<img src="images/aofe_plcmnts3.png" alt="Sample Image 7" width="800" height="400>
+<img src="images/aofe_plcmnts3.png" alt="Sample Image 7" width="800" height="400">
 
 
 - What were the most common job titles placed in each area of expertise?
@@ -81,13 +81,13 @@ ___________
 
 - What are the trends in job postings across the different regions of the country?
 
-<img src="images/AllRegions2021.png" alt="Sample Image 11" width="800" height="400>
+<img src="images/AllRegions2021.png" alt="Sample Image 11" width="800" height="400">
 
-<img src="images/AllRegions2022.png" alt="Sample Image 12" width="800" height="400>
+<img src="images/AllRegions2022.png" alt="Sample Image 12" width="800" height="400">
 
-<img src="images/AllRegions2023.png" alt="Sample Image 13" width="800" height="400>
+<img src="images/AllRegions2023.png" alt="Sample Image 13" width="800" height="400">
 
-<img src="images/AllRegionsAllMonths.png" alt="Sample Image 14" width="800" height="400>
+<img src="images/AllRegionsAllMonths.png" alt="Sample Image 14" width="800" height="400">
 
 <br>	
 
