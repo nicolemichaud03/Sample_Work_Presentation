@@ -12,7 +12,8 @@ This was one of my first projects while learning data science/data analysis, and
 
 Note: The company was in the recruiting and staffing industry-- "placements" refers to jobs placed by the company, "sales" refers to new clients gained, "job category" refers to the type of job a placement was for.
 
-## Topics Covered:
+<br>	
+
 ### Internal Research
 - In the past 3 years, what industries has the company made the most placements in overall?
 
@@ -37,18 +38,67 @@ Note: The company was in the recruiting and staffing industry-- "placements" ref
 
 
 - What were the most common job titles placed in each area of expertise?
+	- Area of Expertise X: 
+		- Title 1
+		- Title 2
+		- Title 3
+		- Title 4
+		...
+
 - What industries does the company make the most revenue from?
-- What placement titles and categories does the company make the most revenue from?
+	- "The top 10 industries make up XX% of the company's total revenue"
+	- The top industries:
+		1. XX
+		2. XX
+		3. XX
+		4. XX
+		...
+
+- What placement categories does the company make the most revenue from?
+	- "The top 10 categories make up XX% of the company's total revenue"
+	- The top categories:
+		1. XX
+		2. XX
+		3. XX
+		4. XX
+		...
+
+<br>	
+
 ### External Research
+
 - For the company's areas of expertise, what are the trends in job postings?
-	- utilized data from Indeed Hiring Lab
+
+	- utilized publicly available data from Indeed Hiring Lab
+
+<img src="images/2021jobpostings.png" alt="Sample Image 8">
+
+<img src="images/2022jobpostings.png" alt="Sample Image 9">
+
+<img src="images/2023jobpostings.png" alt="Sample Image 10">
+
 - What are the trends in job postings across the different regions of the country?
-- Where are the number of job postings currently the highest?
-	
+
+<img src="images/AllRegions2021.png" alt="Sample Image 11">
+
+<img src="images/AllRegions2022.png" alt="Sample Image 12">
+
+<img src="images/AllRegions2023.png" alt="Sample Image 13">
+
+<img src="images/AllRegionsAllMonths.png" alt="Sample Image 14">
+
+<br>	
+
 ### Comparisons and conclusions
+
 - Do the trends in job postings for different areas of expertise align with trends in the company's placements?
+
 - Do the trends in job postings for different US regions align with trends in the company's placements?
+	
 	- What locations should the company focus more effort towards in terms of sales and placements?
+
 - In sales and placements from recent years, what industries or categories has the company seen growth in, and which areas should they refocus efforts toward?
+
 - Does the marketing efforts and budget aimed at different industries and placement categories align with those that the company makes most of its revenue from, that are trending nationally, or that have otherwise shown potential?
+	
 	- What specific areas should we refocus efforts toward?
